@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hi there ! Welcome to my profile 👋
 
-<!--
-**ProxyFit/proxyfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my first `README.md` appears on my GitHub profile.
 
-Here are some ideas to get you started:
+Some things interesting to know about me:
 
-- 🔭 I’m currently working on unammed surface vehicle
-- 🌱 I’m currently learning VScode
-- 👯 I’m looking to collaborate on space research
+- 🔭 I’m currently working on unammed surface vehicle (Florida, USA)
+- 🌱 I’m currently learning more about **Java, Linux & Github tips**
+- 👯 I’m looking to collaborate on **space research**
 - 💬 Ask me about my knowledges, languages
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: **I will see a rocket launch soon ...**
