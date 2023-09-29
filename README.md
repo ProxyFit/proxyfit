@@ -8,4 +8,4 @@ Some things interesting to know about me:
 - 🌱 I’m currently learning more about **Java, Linux & Github tips**
 - 👯 I’m looking to collaborate on **space research**
 - 💬 Ask me about my knowledges, languages
-- ⚡ Fun fact: **I will see a rocket launch soon ...**
+- ⚡ Fun fact: **I saw a rocket launch**
